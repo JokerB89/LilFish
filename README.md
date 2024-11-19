@@ -5,12 +5,12 @@ Projects4All and beyond!
 
 - **[Progect 2](Work in progress...):** 
 
-🌐 **[My online Portfolio](https://JokerB89.github.io)**
+             🌐 
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Portfolio of JokerB89</title>
+    
     <link rel="stylesheet" href="style.css">
 </head>
 <body>

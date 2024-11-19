@@ -5,13 +5,13 @@ Projects4All and beyond!
 
 - **[Progect 2](Work in progress...):** 
 
-             🌐 
+ 
 
 <!DOCTYPE html>
 <html>
 <head>
     
-    <link rel="stylesheet" href="style.css">
+    
 </head>
 <body>
     <header>

@@ -22,7 +22,7 @@ Projects4All and beyond!
         <h2>Main Projects</h2>
         <ul>
             <li><a href="https://github.com/JokerB89/PositionSizing">Project 1</a></li>
-            <h3>This is an application that helps you to calculate you size amount based on your capitals<h3>
+            <h3>This is an application that helps you to calculate your size amount based on your capitals<h3>
         </ul>
     </section>
 </body>
